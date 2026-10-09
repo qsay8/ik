@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'macos-15'
+  vmImage: 'macos-14'
 
 steps:
 - checkout: none
